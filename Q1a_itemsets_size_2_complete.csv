@@ -1,0 +1,413 @@
+Itemset,Support_Count,Support
+"garlic clove, olive oil",1257,0.1257
+"garlic clove, onion",1088,0.1088
+"butter, plain flour",704,0.0704
+"olive oil, onion",648,0.0648
+"garlic clove, tomato",642,0.0642
+"coriander, garlic clove",626,0.0626
+"garlic clove, ginger",556,0.0556
+"garlic clove, rapeseed oil",478,0.0478
+"garlic clove, parsley",474,0.0474
+"garlic clove, red onion",451,0.0451
+"onion, tomato",438,0.0438
+"olive oil, parsley",424,0.0424
+"garlic clove, red chilli",421,0.0421
+"olive oil, tomato",415,0.0415
+"butter, milk",413,0.0413
+"butter, garlic clove",397,0.0397
+"carrot, garlic clove",388,0.0388
+"carrot, onion",380,0.038
+"garlic clove, vegetable oil",376,0.0376
+"garlic clove, thyme",368,0.0368
+"coriander, onion",368,0.0368
+"butter, icing sugar",365,0.0365
+"garlic clove, spring onion",362,0.0362
+"garlic clove, tomato puree",359,0.0359
+"butter, double cream",357,0.0357
+"butter, golden caster sugar",353,0.0353
+"butter, onion",351,0.0351
+"cumin, garlic clove",346,0.0346
+"olive oil, parmesan",342,0.0342
+"garlic clove, parmesan",339,0.0339
+"olive oil, red onion",336,0.0336
+"large egg, plain flour",334,0.0334
+"plain flour, unsalted butter",333,0.0333
+"golden caster sugar, plain flour",331,0.0331
+"coriander, cumin",327,0.0327
+"caster sugar, plain flour",323,0.0323
+"baking powder, plain flour",321,0.0321
+"icing sugar, vanilla extract",319,0.0319
+"coriander, ginger",318,0.0318
+"butter, olive oil",315,0.0315
+"icing sugar, plain flour",314,0.0314
+"butter, eggs",312,0.0312
+"butter, vanilla extract",309,0.0309
+"onion, tomato puree",307,0.0307
+"butter, caster sugar",306,0.0306
+"milk, plain flour",304,0.0304
+"garlic clove, smoked paprika",298,0.0298
+"lemon, olive oil",296,0.0296
+"garlic clove, lemon juice",296,0.0296
+"bay leaf, onion",293,0.0293
+"plain flour, vanilla extract",291,0.0291
+"eggs, plain flour",291,0.0291
+"garlic clove, red pepper",290,0.029
+"garlic clove, lemon",289,0.0289
+"onion, plain flour",289,0.0289
+"olive oil, thyme",288,0.0288
+"garlic clove, lemon zest",283,0.0283
+"butter, large egg",283,0.0283
+"butter, self raise flour",282,0.0282
+"garlic clove, vegetable stock",280,0.028
+"baking powder, butter",278,0.0278
+"onion, thyme",274,0.0274
+"coriander, tomato",272,0.0272
+"garlic clove, plain flour",271,0.0271
+"golden caster sugar, icing sugar",270,0.027
+"ginger, onion",267,0.0267
+"onion, vegetable oil",266,0.0266
+"garlic clove, lime",258,0.0258
+"onion, parsley",258,0.0258
+"basil, garlic clove",257,0.0257
+"coriander, red chilli",257,0.0257
+"extra virgin olive oil, garlic clove",255,0.0255
+"lemon zest, olive oil",255,0.0255
+"coriander, red onion",251,0.0251
+"caster sugar, icing sugar",251,0.0251
+"onion, rapeseed oil",251,0.0251
+"golden caster sugar, large egg",251,0.0251
+"bay leaf, garlic clove",251,0.0251
+"chilli flake, garlic clove",250,0.025
+"coriander, lime",250,0.025
+"garlic clove, turmeric",249,0.0249
+"baking powder, self raise flour",246,0.0246
+"golden caster sugar, vanilla extract",245,0.0245
+"icing sugar, self raise flour",243,0.0243
+"celery, onion",242,0.0242
+"coriander, olive oil",241,0.0241
+"egg, plain flour",241,0.0241
+"plain flour, vegetable oil",240,0.024
+"double cream, icing sugar",239,0.0239
+"olive oil, plain flour",239,0.0239
+"icing sugar, large egg",232,0.0232
+"ginger, red chilli",232,0.0232
+"carrot, olive oil",231,0.0231
+"baking powder, vanilla extract",231,0.0231
+"ginger, spring onion",227,0.0227
+"chicken stock, garlic clove",227,0.0227
+"double cream, plain flour",227,0.0227
+"baking powder, icing sugar",227,0.0227
+"garlic clove, potato",226,0.0226
+"carrot, celery",226,0.0226
+"onion, vegetable stock",225,0.0225
+"butter, thyme",222,0.0222
+"red onion, tomato",220,0.022
+"garlic clove, mint",220,0.022
+"caster sugar, vanilla extract",215,0.0215
+"icing sugar, milk",215,0.0215
+"onion, potato",215,0.0215
+"lemon juice, olive oil",215,0.0215
+"caster sugar, double cream",212,0.0212
+"chicken stock, onion",212,0.0212
+"garlic clove, sunflower oil",211,0.0211
+"icing sugar, unsalted butter",210,0.021
+"garlic clove, soy sauce",210,0.021
+"cumin, onion",210,0.021
+"baking powder, milk",210,0.021
+"ginger, turmeric",210,0.021
+"milk, self raise flour",209,0.0209
+"celery, garlic clove",208,0.0208
+"golden caster sugar, self raise flour",207,0.0207
+"olive oil, tomato puree",206,0.0206
+"baking powder, eggs",206,0.0206
+"plain flour, sugar",206,0.0206
+"cumin seed, garlic clove",205,0.0205
+"basil, olive oil",205,0.0205
+"golden caster sugar, unsalted butter",202,0.0202
+"butter, cinnamon",201,0.0201
+"onion, turmeric",201,0.0201
+"baking powder, large egg",201,0.0201
+"coriander, turmeric",200,0.02
+"butter, sugar",198,0.0198
+"coriander, rapeseed oil",198,0.0198
+"olive oil, smoked paprika",194,0.0194
+"double cream, golden caster sugar",190,0.019
+"tomato, tomato puree",190,0.019
+"cherry tomato, garlic clove",189,0.0189
+"caster sugar, unsalted butter",188,0.0188
+"baking powder, caster sugar",188,0.0188
+"chilli flake, olive oil",187,0.0187
+"baking powder, golden caster sugar",187,0.0187
+"large egg, unsalted butter",187,0.0187
+"onion, smoked paprika",184,0.0184
+"olive oil, red chilli",183,0.0183
+"cherry tomato, olive oil",182,0.0182
+"large egg, self raise flour",182,0.0182
+"caster sugar, milk",182,0.0182
+"mint, olive oil",182,0.0182
+"bay leaf, carrot",181,0.0181
+"dried oregano, garlic clove",179,0.0179
+"soy sauce, spring onion",179,0.0179
+"cinnamon, plain flour",178,0.0178
+"bay leaf, thyme",178,0.0178
+"bay leaf, olive oil",177,0.0177
+"self raise flour, vanilla extract",176,0.0176
+"olive oil, potato",176,0.0176
+"garlic clove, green chilli",176,0.0176
+"butter, egg",176,0.0176
+"olive oil, vegetable stock",175,0.0175
+"milk, vanilla extract",175,0.0175
+"large egg, vanilla extract",174,0.0174
+"caster sugar, eggs",174,0.0174
+"bay leaf, butter",174,0.0174
+"ginger, vegetable oil",173,0.0173
+"eggs, self raise flour",172,0.0172
+"eggs, icing sugar",171,0.0171
+"eggs, vanilla extract",171,0.0171
+"golden caster sugar, milk",171,0.0171
+"butter, parsley",171,0.0171
+"coriander, vegetable oil",171,0.0171
+"dark chocolate, double cream",170,0.017
+"bicarbonate of soda, plain flour",170,0.017
+"onion, parmesan",170,0.017
+"coriander, cumin seed",169,0.0169
+"coriander leaf, garlic clove",169,0.0169
+"caster sugar, large egg",169,0.0169
+"onion, sunflower oil",169,0.0169
+"double cream, vanilla extract",168,0.0168
+"garlic clove, sugar",168,0.0168
+"onion, red chilli",168,0.0168
+"plain flour, thyme",168,0.0168
+"chicken stock, olive oil",167,0.0167
+"eggs, milk",167,0.0167
+"ginger, soy sauce",167,0.0167
+"lime, red chilli",166,0.0166
+"chickpea, garlic clove",165,0.0165
+"caster sugar, self raise flour",164,0.0164
+"large egg, milk",163,0.0163
+"garlic clove, rosemary",162,0.0162
+"chicken thigh, garlic clove",162,0.0162
+"carrot, thyme",162,0.0162
+"olive oil, red pepper",161,0.0161
+"eggs, golden caster sugar",161,0.0161
+"unsalted butter, vanilla extract",161,0.0161
+"butter, nutmeg",161,0.0161
+"cocoa powder, dark chocolate",161,0.0161
+"plain flour, sunflower oil",161,0.0161
+"coriander, spring onion",160,0.016
+"cumin, olive oil",160,0.016
+"butter, parmesan",160,0.016
+"olive oil, rosemary",159,0.0159
+"cumin, tomato",159,0.0159
+"chicken breast, garlic clove",159,0.0159
+"rapeseed oil, tomato",155,0.0155
+"olive oil, red wine vinegar",153,0.0153
+"ginger, lime",153,0.0153
+"carrot, tomato puree",153,0.0153
+"red chilli, spring onion",152,0.0152
+"dark chocolate, plain flour",152,0.0152
+"butter, lemon zest",151,0.0151
+"butter, lemon",149,0.0149
+"butter, potato",149,0.0149
+"dried oregano, olive oil",148,0.0148
+"feta, olive oil",148,0.0148
+"double cream, garlic clove",148,0.0148
+"courgette, garlic clove",147,0.0147
+"cocoa powder, plain flour",147,0.0147
+"bay leaf, plain flour",147,0.0147
+"garlic clove, red wine vinegar",145,0.0145
+"butter, lemon juice",145,0.0145
+"celery, olive oil",145,0.0145
+"eggs, garlic clove",144,0.0144
+"egg yolk, plain flour",144,0.0144
+"olive oil, spring onion",143,0.0143
+"double cream, unsalted butter",143,0.0143
+"baking powder, unsalted butter",143,0.0143
+"rapeseed oil, red onion",143,0.0143
+"double cream, large egg",142,0.0142
+"coriander, green chilli",142,0.0142
+"butter, dark chocolate",141,0.0141
+"avocado, lime",141,0.0141
+"garlic clove, shallot",141,0.0141
+"cucumber, garlic clove",141,0.0141
+"cumin, red onion",140,0.014
+"self raise flour, unsalted butter",140,0.014
+"avocado, coriander",139,0.0139
+"butter, vegetable oil",138,0.0138
+"garlic clove, white wine",138,0.0138
+"eggs, unsalted butter",137,0.0137
+"cocoa powder, icing sugar",136,0.0136
+"cumin seed, onion",135,0.0135
+"olive oil, white wine",135,0.0135
+"ginger, rapeseed oil",135,0.0135
+"onion, red pepper",134,0.0134
+"spring onion, vegetable oil",134,0.0134
+"cinnamon, icing sugar",133,0.0133
+"garlic clove, pea",133,0.0133
+"double cream, eggs",133,0.0133
+"plain flour, whole milk",133,0.0133
+"butter, carrot",132,0.0132
+"avocado, garlic clove",132,0.0132
+"food colouring, icing sugar",132,0.0132
+"flat leaf parsley, garlic clove",131,0.0131
+"coriander, smoked paprika",130,0.013
+"garlic clove, spinach",130,0.013
+"parsley, tomato",130,0.013
+"garlic clove, milk",130,0.013
+"aubergine, garlic clove",130,0.013
+"chilli powder, garlic clove",130,0.013
+"carrot, rapeseed oil",130,0.013
+"garlic clove, vegetable bouillon",129,0.0129
+"lime, spring onion",129,0.0129
+"butter, whole milk",129,0.0129
+"courgette, olive oil",128,0.0128
+"garlic clove, leek",128,0.0128
+"basmati rice, garlic clove",128,0.0128
+"double cream, milk",128,0.0128
+"ginger, tomato",128,0.0128
+"carrot, coriander",128,0.0128
+"milk, unsalted butter",128,0.0128
+"dark chocolate, golden caster sugar",127,0.0127
+"sesame oil, spring onion",127,0.0127
+"coconut milk, garlic clove",126,0.0126
+"cornflour, plain flour",126,0.0126
+"cumin, ginger",126,0.0126
+"nutmeg, plain flour",126,0.0126
+"carrot, plain flour",125,0.0125
+"dill, olive oil",125,0.0125
+"cumin, turmeric",124,0.0124
+"rapeseed oil, vegetable bouillon",123,0.0123
+"butter, chicken stock",123,0.0123
+"cinnamon, golden caster sugar",123,0.0123
+"extra virgin olive oil, olive oil",123,0.0123
+"ginger, green chilli",122,0.0122
+"sesame oil, soy sauce",122,0.0122
+"smoked paprika, tomato",121,0.0121
+"caster sugar, dark chocolate",121,0.0121
+"garlic clove, nutmeg",121,0.0121
+"eggs, olive oil",121,0.0121
+"dark chocolate, vanilla extract",120,0.012
+"cinnamon, vanilla extract",120,0.012
+"garlic clove, honey",120,0.012
+"dijon mustard, olive oil",120,0.012
+"medium egg, plain flour",120,0.012
+"lemon zest, parsley",119,0.0119
+"lemon, onion",119,0.0119
+"cumin, smoked paprika",119,0.0119
+"feta, garlic clove",119,0.0119
+"red chilli, tomato",119,0.0119
+"garlic clove, sweet potato",118,0.0118
+"milk, olive oil",118,0.0118
+"plain flour, salted butter",118,0.0118
+"chilli powder, coriander",118,0.0118
+"coriander, mint",118,0.0118
+"parsley, red onion",118,0.0118
+"carrot, vegetable oil",117,0.0117
+"basil, tomato",117,0.0117
+"cocoa powder, vanilla extract",117,0.0117
+"parmesan, plain flour",117,0.0117
+"flat leaf parsley, olive oil",116,0.0116
+"sugar, vanilla extract",116,0.0116
+"cinnamon, sugar",116,0.0116
+"caster sugar, cornflour",116,0.0116
+"butter, egg yolk",116,0.0116
+"fennel seed, garlic clove",115,0.0115
+"baking powder, vegetable oil",115,0.0115
+"eggs, sugar",114,0.0114
+"eggs, vegetable oil",114,0.0114
+"garlic clove, sesame seed",114,0.0114
+"plain flour, potato",114,0.0114
+"onion, sugar",114,0.0114
+"chickpea, coriander",114,0.0114
+"sesame seed, spring onion",114,0.0114
+"egg, garlic clove",114,0.0114
+"ginger, sunflower oil",113,0.0113
+"red chilli, vegetable oil",113,0.0113
+"bread, garlic clove",113,0.0113
+"olive oil, pea",113,0.0113
+"lemon juice, parsley",113,0.0113
+"bay leaf, celery",113,0.0113
+"mozzarella, olive oil",112,0.0112
+"basmati rice, onion",112,0.0112
+"milk, onion",112,0.0112
+"cinnamon, garlic clove",112,0.0112
+"coriander, tomato puree",112,0.0112
+"garlic clove, natural yogurt",112,0.0112
+"ginger, sesame oil",112,0.0112
+"carrot, tomato",112,0.0112
+"parsley, rapeseed oil",111,0.0111
+"lemon, parsley",111,0.0111
+"dark chocolate, icing sugar",111,0.0111
+"olive oil, shallot",111,0.0111
+"garlic clove, oil",111,0.0111
+"butter, cocoa powder",111,0.0111
+"coriander, sunflower oil",110,0.011
+"baking powder, cocoa powder",110,0.011
+"garlic clove, greek yogurt",110,0.011
+"caster sugar, vegetable oil",110,0.011
+"dill, garlic clove",110,0.011
+"garlic clove, mozzarella",109,0.0109
+"coconut milk, ginger",109,0.0109
+"bicarbonate of soda, vanilla extract",109,0.0109
+"red chilli, red onion",109,0.0109
+"baking powder, sugar",109,0.0109
+"garlic clove, sesame oil",109,0.0109
+"garlic clove, passata",108,0.0108
+"garlic clove, rice",108,0.0108
+"garam masala, garlic clove",108,0.0108
+"basil, parmesan",108,0.0108
+"curry powder, garlic clove",108,0.0108
+"caster sugar, whole milk",107,0.0107
+"rapeseed oil, thyme",107,0.0107
+"bicarbonate of soda, butter",107,0.0107
+"carrot, ginger",107,0.0107
+"parsley, plain flour",107,0.0107
+"coriander leaf, ginger",107,0.0107
+"cumin seed, ginger",107,0.0107
+"nutmeg, olive oil",107,0.0107
+"sugar, vegetable oil",106,0.0106
+"butter, ground almond",106,0.0106
+"icing sugar, sugar",106,0.0106
+"cinnamon, ground ginger",106,0.0106
+"cucumber, mint",106,0.0106
+"celery, tomato puree",106,0.0106
+"garlic clove, large egg",106,0.0106
+"dried oregano, tomato",106,0.0106
+"butter, medium egg",106,0.0106
+"coriander, red pepper",105,0.0105
+"fast action dry yeast, white bread",105,0.0105
+"lime, red onion",105,0.0105
+"chilli flake, onion",105,0.0105
+"carrot, spring onion",105,0.0105
+"olive oil, sugar",104,0.0104
+"avocado, red onion",104,0.0104
+"bay leaf, tomato puree",104,0.0104
+"cornflour, garlic clove",104,0.0104
+"baking powder, cinnamon",104,0.0104
+"lemon, mint",104,0.0104
+"egg, onion",104,0.0104
+"caster sugar, garlic clove",103,0.0103
+"cinnamon, milk",103,0.0103
+"unsalted butter, whole milk",103,0.0103
+"baby spinach, garlic clove",103,0.0103
+"lemon zest, plain flour",103,0.0103
+"rapeseed oil, red chilli",103,0.0103
+"red onion, red pepper",102,0.0102
+"red onion, smoked paprika",102,0.0102
+"caster sugar, cocoa powder",102,0.0102
+"butter, sunflower oil",102,0.0102
+"cumin seed, turmeric",102,0.0102
+"garam masala, ginger",102,0.0102
+"ginger, red onion",102,0.0102
+"carrot, vegetable stock",102,0.0102
+"chicken thigh, olive oil",101,0.0101
+"lime, onion",101,0.0101
+"chickpea, olive oil",101,0.0101
+"lemon juice, onion",101,0.0101
+"double cream, onion",101,0.0101
+"parmesan, tomato",101,0.0101
+"dried oregano, onion",101,0.0101
+"coriander leaf, onion",100,0.01
+"carrot, parsley",100,0.01
+"beef stock, onion",100,0.01
+"fennel seed, olive oil",100,0.01

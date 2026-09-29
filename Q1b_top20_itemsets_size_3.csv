@@ -1,0 +1,21 @@
+Rank,Itemset,Support_Count,Support,Support (%)
+1,"garlic clove, olive oil, onion",460,0.046,4.60%
+2,"garlic clove, onion, tomato",358,0.0358,3.58%
+3,"garlic clove, olive oil, tomato",307,0.0307,3.07%
+4,"coriander, garlic clove, onion",275,0.0275,2.75%
+5,"garlic clove, olive oil, parsley",273,0.0273,2.73%
+6,"garlic clove, olive oil, parmesan",243,0.0243,2.43%
+7,"coriander, garlic clove, ginger",242,0.0242,2.42%
+8,"coriander, cumin, garlic clove",234,0.0234,2.34%
+9,"garlic clove, onion, tomato puree",234,0.0234,2.34%
+10,"carrot, garlic clove, onion",231,0.0231,2.31%
+11,"garlic clove, ginger, onion",217,0.0217,2.17%
+12,"olive oil, onion, tomato",197,0.0197,1.97%
+13,"coriander, garlic clove, tomato",192,0.0192,1.92%
+14,"garlic clove, olive oil, red onion",188,0.0188,1.88%
+15,"garlic clove, onion, rapeseed oil",188,0.0188,1.88%
+16,"garlic clove, onion, parsley",178,0.0178,1.78%
+17,"carrot, celery, onion",175,0.0175,1.75%
+18,"garlic clove, olive oil, thyme",174,0.0174,1.74%
+19,"garlic clove, olive oil, tomato puree",171,0.0171,1.71%
+20,"butter, milk, plain flour",169,0.0169,1.69%

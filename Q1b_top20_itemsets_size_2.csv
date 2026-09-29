@@ -1,0 +1,21 @@
+Rank,Itemset,Support_Count,Support,Support (%)
+1,"garlic clove, olive oil",1257,0.1257,12.57%
+2,"garlic clove, onion",1088,0.1088,10.88%
+3,"butter, plain flour",704,0.0704,7.04%
+4,"olive oil, onion",648,0.0648,6.48%
+5,"garlic clove, tomato",642,0.0642,6.42%
+6,"coriander, garlic clove",626,0.0626,6.26%
+7,"garlic clove, ginger",556,0.0556,5.56%
+8,"garlic clove, rapeseed oil",478,0.0478,4.78%
+9,"garlic clove, parsley",474,0.0474,4.74%
+10,"garlic clove, red onion",451,0.0451,4.51%
+11,"onion, tomato",438,0.0438,4.38%
+12,"olive oil, parsley",424,0.0424,4.24%
+13,"garlic clove, red chilli",421,0.0421,4.21%
+14,"olive oil, tomato",415,0.0415,4.15%
+15,"butter, milk",413,0.0413,4.13%
+16,"butter, garlic clove",397,0.0397,3.97%
+17,"carrot, garlic clove",388,0.0388,3.88%
+18,"carrot, onion",380,0.038,3.80%
+19,"garlic clove, vegetable oil",376,0.0376,3.76%
+20,"garlic clove, thyme",368,0.0368,3.68%
